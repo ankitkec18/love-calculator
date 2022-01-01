@@ -23,8 +23,17 @@
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
+&nbsp;&nbsp;
+<p align="right"> 
+ 
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=6082b6)](https://www.instagram.com/_insta_ankit/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=6082b6)](https://www.twitter.com/ankitkec/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=6082b6)](https://www.linkedin.com/in/ankitkec18/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=for-the-badge&logo=Facebook&logoColor=white&color=6082b6)](https://www.facebook.com/ankitkumarraj0/)
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankitkec18/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+</p>
+
+
 
 © 2022 Ankit Kumar
 
